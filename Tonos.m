@@ -1,4 +1,5 @@
 clc; clear; close all;
+
 %Volumen 74
 % mydir = 'C:\Users\elenav92\Downloads\';
 mydir = 'C:\Users\Usuario\Downloads\';
